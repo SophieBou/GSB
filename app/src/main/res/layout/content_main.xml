@@ -8,4 +8,11 @@
     tools:context="com.example.sophie.gsb.MainActivity"
     tools:showIn="@layout/activity_main">
 
+    <ToggleButton
+        android:id="@+id/toggleButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ToggleButton"
+        tools:layout_editor_absoluteX="107dp"
+        tools:layout_editor_absoluteY="180dp" />
 </android.support.constraint.ConstraintLayout>

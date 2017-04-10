@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">GSB</string>
     <string name="action_settings">Settings</string>
+    <string name="Titre1">Médicaments</string>
+    <string name="Titre2">Les Familles</string>
+    <string name="Titre3">Les Médicaments, Vous trouverez toutes les informations necessaires à la présentation des différents médicaments</string>
+    <string name="title_activity_listermedicaments">GSB - médicaments</string>
+    <string name="title_activity_listerfamilles">GSB - familles</string>
+    <string name="gsb_description">GSB - Galaxy Swiss Bourdin </string>
 </resources>
